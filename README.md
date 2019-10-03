@@ -14,5 +14,5 @@
     * Click login button
     * Main Screen will be shown
     * Click the UserAccount icon
-    * Click Logount
+    * Click Logout
     * Rinse, Repeat
